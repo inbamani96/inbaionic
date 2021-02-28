@@ -14,3 +14,21 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+
+.mymenu .toolbar-background-md {
+    border-color: #b2b2b2;
+    background: #fed32c;
+    color: #000;
+
+}
+
+.mymenu .toolbar-title {
+    padding: 0 12px;
+    font-size: 2rem;
+    font-weight: 500;
+    color: #424242;
+}
+
+.mybody{
+background:#fed32c;
+}

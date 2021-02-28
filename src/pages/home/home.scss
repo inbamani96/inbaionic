@@ -1,3 +1,55 @@
 page-home {
 
+/* This header open */
+
+
+
+.toolbar-background-md {
+    border-color: #b2b2b2;
+    background: #231f20;
+}
+
+.toolbar-title-md {
+  
+    color: #fff;
+}
+.bar-button-default-md, .bar-button-clear-md-default, .bar-button-md-default {
+    color: #fff;
+    background-color: transparent;
+}
+
+/* This header close  */
+
+.myslide{
+height:180px;}
+
+.myslide img{
+border-radius:10px;}
+
+.card-background-page {
+
+  ion-card {
+    position: relative;
+    text-align: center;
+  }
+
+  .card-title {
+    position: absolute;
+    top: 36%;
+    font-size: 2.0em;
+    width: 100%;
+    font-weight: bold;
+    color: #fff;
+  }
+
+  .card-subtitle {
+    font-size: 1.0em;
+    position: absolute;
+    top: 52%;
+    width: 100%;
+    color: #fff;
+  }
+
+}
+
 }
